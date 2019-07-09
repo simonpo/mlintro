@@ -3,4 +3,4 @@ Azure - Your vision. Your cloud.
 
 ## Resources
 
-* [Presentation: Overview](./docs/Azure Overview for Datapalooza 2019.pdf "Azure Data Analytics AI")
+* [Presentation: Overview](./docs/Azure%20Overview%20for%20Datapalooza%202019.pdf "Azure Data Analytics AI")
