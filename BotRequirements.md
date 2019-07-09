@@ -2,7 +2,7 @@
 Developing a bot on your Windows PC or Mac allows you easily create, debug and deploy the code required to run a Bot on the Azure service. You'll need to install the following software in order to complete the workshop later in this session.
 
 * [Visual Studio Code](https://code.visualstudio.com/Download)
-* [Node.js](https://nodejs.org/en/download/)
+* [Node.js](https://nodejs.org/en/download/) v10.14 or newer
 * [Yeoman](http://yeoman.io)
 * [git](https://git-scm.com)
 * [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator)
